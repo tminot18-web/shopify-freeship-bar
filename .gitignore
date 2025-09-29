@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Local data (optional)
+app.db
+
+# Logs
+*.log
